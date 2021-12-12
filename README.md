@@ -1,1 +1,1 @@
-# an-lisis-componentes-principales-python
+# analisis-componentes-principales-python
